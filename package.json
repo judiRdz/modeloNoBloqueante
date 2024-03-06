@@ -1,0 +1,22 @@
+{
+  "name": "nobloqueante.js",
+  "version": "1.0.0",
+  "description": "modelo no bloqueante en js",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judiRdz/modeloNoBloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "Perla Judith Rodriguez Salinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judiRdz/modeloNoBloqueante/issues"
+  },
+  "homepage": "https://github.com/judiRdz/modeloNoBloqueante#readme"
+}
