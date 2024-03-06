@@ -1,18 +1,18 @@
 'use strict'
 
-setTimeOut(function() {
+setTimeout(function() {
 	console.log('Tarea 1');
 }, 3000);
 
-setTimeOut(function() {
+setTimeout(function() {
 	console.log('Tarea 2');
 }, 20000);
 
-setTimeOut(function() {
+setTimeout(function() {
 	console.log('Tarea 3');
 }, 10000);
 
-setTimeOut(function() {
+setTimeout(function() {
 	console.log('Tarea 4');
 }, 2000);
 
